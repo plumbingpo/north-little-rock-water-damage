@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationnorthlittlerock.com/sitemap.xml
